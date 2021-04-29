@@ -17,4 +17,4 @@ response=requests.get (url, paramt=paramt)
 dic=response.json()
 print(dic)
 
-send_sms("7263987953", "This is my new message project")
+send_sms("97263987912", "This is my new message project")
